@@ -1,1 +1,25 @@
 
+-Arrays Chapter 7
+	Charles
+
+-Inheritance Chapter 9
+	Mackenzie
+
+-Interface dependent Polymorphism Chapter 10
+	
+
+-Software development  Chapter 11
+	Paul
+
+-Regex Chapter 14
+	Kyle
+
+-I/O & object serialization Chapter 15
+
+-Lambdas Chapter 17
+
+-Generic classes & methods Chapter 16/Chapter 20
+
+-Recursion Chapter 18
+
+-Concurrency Chapter 23
