@@ -1,0 +1,65 @@
+? Write a statement that declare a reference variable e suitable for holding to an Exception object
+C11
+S11.3
+(A) Exception e;<
+(B) Exception exception
+(C) Exception object
+$
+? Write the clause needed to identify a method as one that may throw an IOException or a WidgetException:
+C11
+S11.3
+(A) throws IOException;
+(B) throws IOException, WidgetExcepption;<
+(C) throws WidgetExcepption;
+$
+? An exception (as distinct from an Exception) is
+C11
+S11.4
+(A) a program
+(B) a circumstance that a programmer chooses to handle outside the code that handles “normal cases”<
+(C) main memory
+$
+? A checked exceptions one that must be either caught and handles in a method or declared in a throws clause for a method
+C11
+S11.5
+(T) <
+(F) 
+$
+? Besides Object all Exceptions and Errors are descended from the Non-Throwable class
+C11
+S11.5
+(T) 
+(F) <
+$
+? Write an expression whose value is a reference to a newly created Exception object with no specific message
+C11
+S11.6
+(A) new Exception()
+(B) new Exception(“out of oil”)<
+(C) new Exception e
+$
+? A statement that throws a newly created Exception object whose message is “does not compute”, would be written as - throws new Exception(“does not compute”);
+C11
+S11.7
+(T) <
+(F) 
+$
+? An exception (as distinct from an Exception) is:
+C11
+S11.4
+(A) a failure of code that handles the "normal cases"
+(B) a circumstance that cannot be handled by code for the "normal cases"
+(C)a circumstance that a programmer chooses to handle outside the code that handles "normal cases”<
+$
+? Write the definition of a class named PanicException that has no associated message (i.e. null)
+C11
+S11.9
+(A) public class PanicException extends Exception{}<
+(B) public class PanicException{}
+(C) public class Exception extends e{}
+$
+? Assume that e is a variable of type Exception that has been declared and that references an Exception object. Assume that msg is a variable of type String. Write a statement that assigns to msg the message associated with e. This would be written as System.out.println(msg = e.getMessage());
+C11
+S11.8
+(T) <
+(F) 
