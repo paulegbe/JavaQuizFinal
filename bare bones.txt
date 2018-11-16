@@ -1,0 +1,54 @@
+//Final Assignment
+//Team 1
+//Dec. 6, 2018
+
+
+public class ProctorTest{
+	
+	//Driver class
+	
+	//Calls on QuestionBankParser
+	//Displays:
+		Question
+		Answers
+		User's answer as "Correct" or "Incorrect"
+		Correct Answer
+	//Calls on TestAnalysis	
+	//Save results to file userName_dateTimeStamp.txt
+		includes:
+			q. number
+			category
+			if q. is correct/incorrect
+			overall % correct
+	//Ask user to run again or exit
+		
+}
+
+
+
+public class QuestionBankParser{
+	
+	//Open the question bank
+}
+
+
+	
+public (abstract class/static class) TestAnalysis{
+
+	//Compare user's answers to correct answers
+	//Display test statistics
+
+
+	public Chart(){
+		//displays how many questions were correct in each category
+
+	}
+
+
+	public TrackTime(){
+		//"measure the speedup of some parallel operations versus sequential versions of those operations"
+
+	}
+	
+}
+
